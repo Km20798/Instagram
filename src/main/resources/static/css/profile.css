@@ -1,0 +1,237 @@
+.nav1 {
+    border: 1px solid;
+    margin: -3px 0px;
+}
+
+.navimage, .search, .icon {
+    display: inline-block;
+}
+
+.navimage {
+    position: relative;
+    left: 215px;
+    top: 25px;
+}
+
+.search {
+    position: relative;
+    left: 560px;
+    height: 29px;
+    width: 200px;
+}
+
+.icon {
+    position: relative;
+    left: 85%;
+    top: -22px;
+}
+
+.post {
+    position: relative;
+    top: 80px;
+    width: 50%;
+    left: 170px;
+    border-style: ridge;
+    margin-bottom: 72px;
+}
+
+.userimg {
+    width: 30px;
+    border: 1px solid;
+    border-radius: 37px;
+    height: 30px;
+    padding: 10px;
+    margin: 5px 8px -5px 10px;
+}
+
+span {
+    position: relative;
+    top: -15px;
+    font-size: 25px;
+}
+
+.hr {
+    border-style: ridge;
+}
+
+#a {
+    position: relative;
+    top: -21px;
+    left: 343px;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+.h2con {
+    padding-left: 20px;
+}
+
+.like {
+    padding-left: 20px;
+}
+
+.likes {
+    padding-left: 20px;
+}
+
+.comment {
+    padding-left: 0px;
+    margin: 0px;
+}
+
+.im {
+    width: 10px;
+    border: 1px solid;
+    border-radius: 37px;
+    height: 10px;
+    padding: 10px;
+    margin: 5px 8px -5px 10px;
+}
+
+.info, .post {
+    display: inline-block;
+}
+
+.info {
+    position: fixed;
+    top: 135px;
+    left: 827px;
+}
+
+#span {
+    position: relative;
+    top: -5px;
+    font-size: 25px;
+    padding-right: 10px;
+}
+
+#sp {
+    position: relative;
+    top: -5px;
+    font-size: 15px;
+
+}
+
+#com {
+    width: 513px;
+    height: 31px;
+    margin: 10px;
+    border: none;
+    margin-left: 39px;
+    padding-left: 10px;
+}
+
+.sub {
+    border: none;
+    background: white;
+    color: #55d6ca;
+    font-size: 17px;
+}
+
+.comm, .icon1 {
+    display: inline-block;
+}
+
+.icon1 {
+    position: relative;
+    left: 214px;
+    top: -3px;
+}
+
+#view {
+    padding-left: 20px;
+}
+
+.comm {
+    width: 147px;
+}
+
+.pla {
+    position: relative;
+    left: 50%;
+    top: -23px;
+}
+
+#username {
+    font-size: 20px;
+}
+
+#name {
+    font-size: 15px;
+    margin-left: 75px;
+    color: #828080;
+}
+
+.firends {
+    border-style: ridge;
+    width: 300px;
+    margin-left: 14px;
+    height: 262px;
+}
+
+#fi {
+    font-size: 19px;
+    position: relative;
+    top: 3px;
+    left: 20px;
+    color: #c3bdbd;
+}
+
+#id {
+    position: relative;
+    left: 160px;
+    top: 5px;
+    font-size: 20px;
+    color: #aba6a6;
+}
+
+.users {
+    border-style: ridge;
+    margin: 15px 0px 15px 15px;
+    height: 214px;
+}
+
+#id1 {
+    position: relative;
+    left: 74px;
+    top: 5px;
+    font-size: 20px;
+    color: #aba6a6;
+}
+
+.da {
+    display: none;
+    border-style: outset;
+    width: 269px;
+    height: 179px;
+    position: fixed;
+    left: 486px;
+    top: 267px;
+}
+
+a {
+    text-decoration: none;
+}
+
+#lin {
+    margin-right: 20px;
+}
+
+button {
+    width: 100%;
+    height: 45px;
+    border-radius: initial;
+    border: none;
+    background: white;
+    border-bottom: 2px solid #9a9393;
+    cursor: pointer;
+}
+
+.bt {
+    width: 100%;
+    height: 45px;
+    border-radius: initial;
+    border: none;
+    background: white;
+    border-bottom: 2px solid #9a9393;
+}

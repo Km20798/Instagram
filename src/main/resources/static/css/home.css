@@ -1,0 +1,101 @@
+.nav1 {
+    border: 1px solid;
+    margin: -3px 0px;
+}
+
+.navimage, .search, .icon {
+    display: inline-block;
+}
+
+.navimage {
+    position: relative;
+    left: 215px;
+    top: 25px;
+}
+
+.search {
+    position: relative;
+    left: 560px;
+    height: 29px;
+    width: 200px;
+}
+
+.icon {
+    position: relative;
+    left: 85%;
+    top: -22px;
+}
+
+.nav1 {
+    border: 1px solid;
+    margin: -3px 0px;
+    margin-bottom: 100px;
+}
+
+.work {
+    position: absolute;
+    left: 25%;
+    width: 50%;
+}
+
+.userimg, #username, .ed, #ed {
+    display: inline-block;
+}
+
+.userimg {
+    width: 99px;
+    border: 1px solid;
+    border-radius: 74px;
+    height: 100px;
+    padding: 10px;
+    margin: 5px 8px 15px 10px;
+}
+
+#username {
+    position: absolute;
+    top: 25px;
+    left: 170px;
+    font-size: 40px;
+}
+
+.ed {
+    position: absolute;
+    top: 28px;
+    left: 518px;
+    border-style: outset;
+    background: white;
+    padding: 7px;
+    font-size: 20px;
+}
+
+#ed {
+    position: absolute;
+    top: 40px;
+    left: 670px;
+    border-style: inherit;
+    background: white;
+}
+
+#post, #follower, #following {
+    display: inline-block;
+    margin-right: 20px;
+    font-size: 21px;
+}
+
+.fol {
+    position: relative;
+    left: 170px;
+    top: -50px;
+}
+
+#name {
+    position: relative;
+    top: -40px;
+    left: 170px;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
